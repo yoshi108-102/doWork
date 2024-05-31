@@ -7,7 +7,7 @@ import {
   } from "@line/bot-sdk";
   import {
     MessagingApiClient,
-  } from "@line/bot-sdk/dist/messaging-api/api";
+  } from "@line/bot-sdk/dist/messaging-api/api"
   import express, { Application, Request, Response } from "express";
   import { load } from "ts-dotenv";
   
